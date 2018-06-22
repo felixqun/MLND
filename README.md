@@ -1,2 +1,2 @@
-# machinelearning
-Machine Learning repository
+# Machine Learning Nanodegree
+Machine Learning Nanodegree repository
