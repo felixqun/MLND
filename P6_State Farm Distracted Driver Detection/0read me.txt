@@ -1,0 +1,23 @@
+1、数据获取
+安装Kaggle官网的API，手动获取数据后放置于data目录中
+
+2、项目代码运行环境
+操作系统：CentOS 7
+vCPU：16核
+GPU：NVIDIA Tesla K80，4核
+内存：104G
+硬盘：200G
+
+openCV:3.4.1
+Tensorflow-gpu:1.8.0
+Keras-gpu:2.1.6
+Jupyter:1.0.0
+Jupyter_client:5.2.3
+Jupyter_console:5.2.0
+Jupyter_core:4.4.0
+
+3、Jupyter notebook(report code.ipynb)代码运行时间
+共计：约600分钟
+
+4、项目报告
+report.pdf
